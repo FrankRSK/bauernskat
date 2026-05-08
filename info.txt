@@ -1,0 +1,33 @@
+Bauernskat – Das kurzweilige Kartenspiel für zwischendurch
+
+Bauernskat ist eine spannende und vereinfachte Variante des bekannten Skatspiels, ideal für eine schnelle Partie gegen den Computer. Das Spiel kombiniert Glück mit strategischen Elementen und bietet dank unterschiedlicher Schwierigkeitsgrade – Einfach, Mittel und Schwer – eine passende Herausforderung für jeden Spielertyp.
+
+Spielprinzip und Ziel
+
+Im Bauernskat trittst du in Einzelpartien gegen den Computer an. Ziel ist es, durch das Sammeln von Stichen am Ende einer Runde mehr als 60 Punkte zu erreichen, um die Runde zu gewinnen. Jede Runde beginnt mit dem Verteilen der Karten, gefolgt von der Trumpf-Wahl, die den Wert der Karten maßgeblich beeinflusst.
+
+So wird gespielt
+
+Zu Beginn einer jeden Runde erhält jeder Spieler insgesamt 16 Karten: 8 davon sind sichtbar ausgeteilt, 8 bleiben verdeckt. Du und der Computer wechseln sich als Geber ab.
+
+    Trumpf-Wahl: Der Spieler, der nicht Geber ist, wählt basierend auf seinen sichtbaren Karten eine Trumpffarbe. Zur Auswahl stehen die klassischen Farben Herz, Karo, Pik, Kreuz oder der "Grand"-Modus, bei dem alle Buben als höchste Trümpfe gelten. Die gewählte Trumpffarbe oder der Grand-Modus hat einen festen Grundwert, der am Ende die Punkte für die gewonnene Runde bestimmt.
+
+    Stichspiel: Der Trumpf-Ansager spielt die erste Karte aus. Anschließend müssen die Spieler die angespielte Farbe bedienen, falls sie eine passende Karte haben. Ist dies nicht möglich, kann eine Trumpfkarte gespielt oder eine beliebige andere Karte abgeworfen werden. Der Spieler, der die höchste Karte des Stiches legt, gewinnt diesen und spielt die nächste Karte aus.
+
+    Karten aufdecken: Nach jedem gewonnenen Stich wird automatisch eine verdeckte Karte des jeweiligen Spielers aufgedeckt und zu seinen sichtbaren Karten hinzugefügt. Dies sorgt für dynamische Spielverläufe und erfordert eine flexible Anpassung der Strategie.
+
+    Punkte sammeln: Die Werte der gewonnenen Karten zählen am Ende einer Runde. Die Karten haben folgende Punktwerte: Ass (11), Zehn (10), König (4), Dame (3), Bube (2). Siebenen, Achten und Neunen sind "Laufkarten" und zählen 0 Punkte.
+
+Besonderheiten der Wertung
+
+    Wer am Ende einer Runde mehr als 60 Punkte durch gesammelte Stiche erzielt hat, gewinnt die Runde.
+
+    Die Grundwerte der Trumpf-Ansagen sind: Karo (9), Herz (10), Pik (11), Kreuz (12), Grand (24).
+
+    Hat der Trumpf-Ansager die Runde verloren (weniger als 61 Punkte), werden die Grundpunkte der Trumpf-Ansage für den Gewinner verdoppelt. Bei einem Unentschieden (beide 60 Punkte) erhält der Nicht-Ansager ebenfalls die doppelten Grundpunkte.
+
+Einstellungen und Anpassungen
+
+    Kartensets: Wähle zwischen verschiedenen Kartensets, um das Design des Spiels zu variieren.
+
+    Schwierigkeitsgrad: Stelle den Computer-Gegner auf "Einfach", "Mittel" oder "Schwer" ein, um die Herausforderung anzupassen. Der Computer verfügt über eine intelligente Spielweise, die sich am gewählten Schwierigkeitsgrad orientiert und insbesondere im "Schwer"-Modus eine anspruchsvolle Partie bietet.
